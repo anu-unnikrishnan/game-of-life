@@ -1,5 +1,5 @@
 
-GUIDE TO CONWAY'S GAME OF LIFE.
+Guide to Conway's Game of Life.
 -------------------------------
 
 We start with a grid of cells. The player picks the positions of live cells at the start. The cells then evolve according to the following rules:
